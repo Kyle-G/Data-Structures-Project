@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1459854842 source:c:\users\kyle\documents\project6\studentrecords.cpp
+
+1459854842 source:c:\users\kcg27\desktop\project6\studentrecords.cpp
+
+1459891273 source:c:\users\kcg27\desktop\project6\main.cpp
+	<iostream>
+	<fstream>
+	"STUDENTRECORDS.h"
+	<vector>
+	<iomanip>
+
+1459880267 c:\users\kcg27\desktop\project6\studentrecords.h
+	<vector>
+	<iostream>
+	<fstream>
+	<iomanip>
+
+1459899488 source:c:\users\kyle\desktop\project6\main.cpp
+	<iostream>
+	<fstream>
+	"STUDENTRECORDS.h"
+	<vector>
+	<iomanip>
+
+1459883867 c:\users\kyle\desktop\project6\studentrecords.h
+	<vector>
+	<iostream>
+	<fstream>
+	<iomanip>
+
+1459858442 source:c:\users\kyle\desktop\project6\studentrecords.cpp
+
